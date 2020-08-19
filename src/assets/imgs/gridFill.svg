@@ -1,0 +1,17 @@
+<svg id="Grid-Fill" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #111;
+      }
+    </style>
+  </defs>
+  <g id="Group_85" data-name="Group 85">
+    <path id="Path_29" data-name="Path 29" class="cls-1" d="M0,0H24V24H0Z"/>
+    <path id="Path_30" data-name="Path 30" class="cls-2" d="M14,10v4H10V10Zm2,0h5v4H16ZM14,21H10V16h4Zm2,0V16h5v4a1,1,0,0,1-1,1ZM14,3V8H10V3Zm2,0h4a1,1,0,0,1,1,1V8H16ZM8,10v4H3V10ZM8,21H4a1,1,0,0,1-1-1V16H8ZM8,3V8H3V4A1,1,0,0,1,4,3Z"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.991" height="12.991" viewBox="0 0 12.991 12.991">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #1dbf16;
+      }
+    </style>
+  </defs>
+  <g id="Check-Circle-Outline" transform="translate(2 2)">
+    <g id="Group_82" data-name="Group 82" transform="translate(-2 -2)">
+      <g id="Icons">
+        <g id="Two-Tone">
+          <g id="Action" transform="translate(0 0)">
+            <g id="Two-Tone-_-Action-_-check_circle_outline" data-name="Two-Tone-/-Action-/-check_circle_outline" transform="translate(0 0)">
+              <path id="Path" class="cls-1" d="M0,0H12.991V12.991H0Z"/>
+              <path id="_-Primary-Color" data-name="🔹-Primary-Color" class="cls-2" d="M7.413,2a5.413,5.413,0,1,0,5.413,5.413A5.415,5.415,0,0,0,7.413,2Zm0,9.743a4.33,4.33,0,1,1,4.33-4.33A4.336,4.336,0,0,1,7.413,11.743ZM9.9,5.02,6.33,8.588l-1.4-1.4-.763.763L6.33,10.12l4.33-4.33Z" transform="translate(-0.917 -0.917)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

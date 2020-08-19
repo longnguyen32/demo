@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="40" viewBox="0 0 34 40">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        opacity: 0.87;
+      }
+
+      .cls-3 {
+        fill: #111;
+      }
+    </style>
+  </defs>
+  <g id="List" transform="translate(3 7)">
+    <g id="Group_86" data-name="Group 86" transform="translate(-3 -7)">
+      <g id="Icons">
+        <g id="Two-Tone">
+          <g id="Action">
+            <g id="Two-Tone-_-Action-_-list" data-name="Two-Tone-/-Action-/-list">
+              <g id="Group">
+                <path id="Path" class="cls-1" d="M0,0H34V40H0Z"/>
+                <path id="Path-2" data-name="Path" class="cls-2" d="M0,0H34V40H0Z"/>
+              </g>
+              <path id="_-Primary-Color" data-name="🔹-Primary-Color" class="cls-3" d="M3,17H5.667V13.667H3Zm0,6.667H5.667V20.333H3ZM3,10.333H5.667V7H3ZM8.333,17H27V13.667H8.333Zm0,6.667H27V20.333H8.333ZM8.333,7v3.333H27V7Z" transform="translate(2 4.667)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
